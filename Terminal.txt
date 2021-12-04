@@ -61,9 +61,7 @@ ls -la
 # Переместить 2 файла в папку:
 mv f_1.txt f_2.txt /e/QA/group_25/t_1/test_1/
 Esc : qw Enter
-
 $ chmod +x ./myscript
-
 $ ./myscript
 
 
